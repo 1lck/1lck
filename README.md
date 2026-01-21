@@ -57,12 +57,6 @@ Profile README 使用方法：
 <a href="https://github.com/1lck/MindFlow">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=1lck&repo=MindFlow&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
-<a href="https://github.com/vulhub/java-chains">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vulhub&repo=java-chains&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/OWASP-Benchmark/BenchmarkJava">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP-Benchmark&repo=BenchmarkJava&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</a>
 
 </div>
 
