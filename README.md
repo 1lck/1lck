@@ -73,7 +73,7 @@ Profile README 使用方法：
 
 <div align="center">
 
-<img src="./contributions.svg" alt="contributions" />
+<img src="./contributions.svg?raw=1" alt="contributions" />
 
 </div>
 
@@ -115,6 +115,6 @@ Profile README 使用方法：
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="metrics" />
+<img src="./github-metrics.svg?raw=1" alt="metrics" />
 
 </div>
