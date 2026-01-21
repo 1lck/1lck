@@ -24,28 +24,7 @@
 
 说明：生成的 SVG 会提交到 `output` 分支（包含 `snake.svg` 和 `trophy.svg`），README 里通过 raw 链接引用。
 
-## 4) 可选：启用 Metrics 大卡片（更炫）
-
-文件：`.github/workflows/metrics.yml`
-
-默认会优先使用 `METRICS_TOKEN`，没有的话会退回用仓库自带的 `GITHUB_TOKEN`（部分数据/插件可能受限）。
-
-提示：`Achievements` 插件偶尔会因为 GitHub 限流/反爬或权限不足显示 `Unexpected error`，建议配置 `METRICS_TOKEN` 后再手动运行一次 `metrics`。
-
-1. （可选）GitHub → Settings → Developer settings → Personal access tokens
-2. （可选）创建 Fine-grained token（最小权限，只授权当前仓库即可）
-3. （可选）仓库 Settings → Secrets and variables → Actions → New repository secret
-4. （可选）新建 secret：`METRICS_TOKEN` = 你的 token
-5. 手动运行一次 Action（或等待定时任务）
-
-说明：该工作流会生成两个文件：
-
-- `github-metrics.svg`（综合卡片）
-- `contributions.svg`（贡献绿墙/日历，默认显示近 3 年）
-
-如果你不想用 token，可以注释掉 README 里的 Metrics 部分（以及 Contributions 的图片引用）。
-
-## 5) 可选：启用 Streak 连续打卡
+## 4) 可选：启用 Streak 连续打卡
 
 `Streak` 属于第三方服务，有时会因为 GitHub API 限流而显示失败。想要稳定展示，建议自部署（Vercel/Heroku 等）：
 

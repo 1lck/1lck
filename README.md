@@ -99,14 +99,6 @@ Profile README 使用方法：
 
 </div>
 
-## Contributions
-
-<div align="center">
-
-<img src="./contributions.svg?raw=1" alt="contributions" />
-
-</div>
-
 ## Trophies
 
 > 如果图片为空：到 GitHub 的 Actions 手动运行一次 `snake`（它会同时生成 `output/trophy.svg`）。
@@ -125,7 +117,7 @@ Profile README 使用方法：
 
 </div>
 
-## Snake (Contributions)
+## Snake
 
 > 开启后会自动生成到 `dist/snake.svg`（见 `.github/workflows/snake.yml`）。
 >
