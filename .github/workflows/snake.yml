@@ -22,21 +22,31 @@ jobs:
       - name: Generate trophy SVG
         run: |
           mkdir -p dist
-          if ! curl -fsSL --retry 5 --retry-all-errors --retry-delay 2 -H "User-Agent: github-actions" \
+          # Try to reuse previous generated file to avoid overwriting a good trophy.svg when the service is down.
+          curl -fsSL -H "User-Agent: github-actions" \
+            "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/output/trophy.svg" \
+            -o dist/trophy.svg || true
+
+          if curl -fsSL --retry 5 --retry-all-errors --retry-delay 2 -H "User-Agent: github-actions" \
               "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" \
-              -o dist/trophy.svg; then
-            {
-              echo '<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Trophies placeholder">'
-              echo '  <rect width="900" height="140" rx="14" fill="#0b1220"/>'
-              echo '  <g fill="#e5e7eb" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="16">'
-              echo '    <text x="28" y="58" font-size="22" font-weight="700">Trophies</text>'
-              echo '    <text x="28" y="92">Placeholder: trophy service unavailable. Re-run workflow \"snake\" later.</text>'
-              echo '  </g>'
-              echo '  <g fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">'
-              echo '    <text x="28" y="118">If it keeps failing: likely rate limiting (429) or temporary outage.</text>'
-              echo '  </g>'
-              echo '</svg>'
-            } > dist/trophy.svg
+              -o dist/trophy.svg.new; then
+            mv dist/trophy.svg.new dist/trophy.svg
+          else
+            rm -f dist/trophy.svg.new
+            if [ ! -s dist/trophy.svg ]; then
+              {
+                echo '<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Trophies placeholder">'
+                echo '  <rect width="900" height="140" rx="14" fill="#0b1220"/>'
+                echo '  <g fill="#e5e7eb" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="16">'
+                echo '    <text x="28" y="58" font-size="22" font-weight="700">Trophies</text>'
+                echo '    <text x="28" y="92">Placeholder: trophy service unavailable. Re-run workflow \"snake\" later.</text>'
+                echo '  </g>'
+                echo '  <g fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">'
+                echo '    <text x="28" y="118">If it keeps failing: likely rate limiting (429) or temporary outage.</text>'
+                echo '  </g>'
+                echo '</svg>'
+              } > dist/trophy.svg
+            fi
           fi
 
       - name: Push to output branch
