@@ -2,7 +2,7 @@
 Profile README 使用方法：
 1) 新建一个与你 GitHub 用户名同名的仓库：`1lck/1lck`
 2) 把本文件放到该仓库根目录（README.md）
-3) 可选：启用 Actions 生成 Snake / Metrics（见 SETUP.md）
+3) 可选：启用 Actions 生成 Snake（见 SETUP.md）
 -->
 
 <div align="center">
@@ -57,35 +57,11 @@ Profile README 使用方法：
 <a href="https://github.com/1lck/MindFlow">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=1lck&repo=MindFlow&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
-
-</div>
-
-## 项目
-
-### 🛠️ 我主要维护的项目
-
-<div align="center">
-
-<a href="https://github.com/SpringKill-team/CodeAuditAssistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringKill-team&repo=CodeAuditAssistant&theme=chartreuse-dark&border_color=22c55e&cache_seconds=86400" />
-</a>
-
-<a href="https://github.com/SecurityCrux/secrux">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SecurityCrux&repo=secrux&theme=chartreuse-dark&border_color=22c55e&cache_seconds=86400" />
-</a>
-
-</div>
-
-### 🌟 我参与贡献的项目
-
-<div align="center">
-
 <a href="https://github.com/vulhub/java-chains">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vulhub&repo=java-chains&theme=chartreuse-dark&border_color=22c55e&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vulhub&repo=java-chains&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
-
 <a href="https://github.com/OWASP-Benchmark/BenchmarkJava">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP-Benchmark&repo=BenchmarkJava&theme=chartreuse-dark&border_color=22c55e&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP-Benchmark&repo=BenchmarkJava&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
 
 </div>
@@ -96,16 +72,6 @@ Profile README 使用方法：
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=1lck&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&cache_seconds=86400" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1lck&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&cache_seconds=86400" />
-
-</div>
-
-## Trophies
-
-> 如果图片为空：到 GitHub 的 Actions 手动运行一次 `snake`（它会同时生成 `output/trophy.svg`）。
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/1lck/1lck/output/trophy.svg" alt="trophies" />
 
 </div>
 
