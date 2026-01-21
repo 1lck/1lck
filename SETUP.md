@@ -30,6 +30,8 @@
 
 默认会优先使用 `METRICS_TOKEN`，没有的话会退回用仓库自带的 `GITHUB_TOKEN`（部分数据/插件可能受限）。
 
+提示：`Achievements` 插件偶尔会因为 GitHub 限流/反爬或权限不足显示 `Unexpected error`，建议配置 `METRICS_TOKEN` 后再手动运行一次 `metrics`。
+
 1. （可选）GitHub → Settings → Developer settings → Personal access tokens
 2. （可选）创建 Fine-grained token（最小权限，只授权当前仓库即可）
 3. （可选）仓库 Settings → Secrets and variables → Actions → New repository secret
