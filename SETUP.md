@@ -39,7 +39,7 @@
 说明：该工作流会生成两个文件：
 
 - `github-metrics.svg`（综合卡片）
-- `contributions.svg`（贡献绿墙/日历）
+- `contributions.svg`（贡献绿墙/日历，默认显示近 3 年）
 
 如果你不想用 token，可以注释掉 README 里的 Metrics 部分（以及 Contributions 的图片引用）。
 
