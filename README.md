@@ -52,16 +52,16 @@ Profile README 使用方法：
 <div align="center">
 
 <a href="https://github.com/1lck/Personal-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1lck&repo=Personal-website&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1lck&repo=Personal-website&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
 <a href="https://github.com/1lck/MindFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1lck&repo=MindFlow&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1lck&repo=MindFlow&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
 <a href="https://github.com/vulhub/java-chains">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vulhub&repo=java-chains&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vulhub&repo=java-chains&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
 <a href="https://github.com/OWASP-Benchmark/BenchmarkJava">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP-Benchmark&repo=BenchmarkJava&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP-Benchmark&repo=BenchmarkJava&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
 
 </div>
@@ -70,8 +70,8 @@ Profile README 使用方法：
 
 <div align="center">
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=1lck&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&cache_seconds=86400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1lck&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&cache_seconds=86400" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=1lck&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1lck&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&cache_seconds=1800" />
 
 </div>
 
