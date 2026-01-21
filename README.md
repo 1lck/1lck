@@ -60,6 +60,36 @@ Profile README 使用方法：
 
 </div>
 
+## 项目
+
+### 🛠️ 我主要维护的项目
+
+<div align="center">
+
+<a href="https://github.com/SpringKill-team/CodeAuditAssistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringKill-team&repo=CodeAuditAssistant&theme=chartreuse-dark&border_color=22c55e&cache_seconds=86400" />
+</a>
+
+<a href="https://github.com/SecurityCrux/secrux">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SecurityCrux&repo=secrux&theme=chartreuse-dark&border_color=22c55e&cache_seconds=86400" />
+</a>
+
+</div>
+
+### 🌟 我参与贡献的项目
+
+<div align="center">
+
+<a href="https://github.com/vulhub/java-chains">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vulhub&repo=java-chains&theme=chartreuse-dark&border_color=22c55e&cache_seconds=86400" />
+</a>
+
+<a href="https://github.com/OWASP-Benchmark/BenchmarkJava">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP-Benchmark&repo=BenchmarkJava&theme=chartreuse-dark&border_color=22c55e&cache_seconds=86400" />
+</a>
+
+</div>
+
 ## Stats
 
 <div align="center">
@@ -104,17 +134,5 @@ Profile README 使用方法：
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/1lck/1lck/output/snake.svg" alt="snake" />
-
-</div>
-
-## Metrics (Optional)
-
-> 开启后会自动生成 `github-metrics.svg`（见 `.github/workflows/metrics.yml`）。
->
-> 如果图片为空：到 GitHub 的 Actions 手动运行一次 `metrics`，运行成功后仓库根目录会出现 `github-metrics.svg`。
-
-<div align="center">
-
-<img src="./github-metrics.svg?raw=1" alt="metrics" />
 
 </div>
