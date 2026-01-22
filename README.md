@@ -56,13 +56,13 @@ Profile README 使用方法：
     <td align="center" width="50%">
       <b>My Projects</b><br/><sub>Built by me</sub><br/><br/>
       <a href="https://github.com/1lck/Personal-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=1lck&repo=Personal-website&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=1lck&repo=Personal-website&theme=github_dark&hide_border=true&border_radius=12&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9&icon_color=22c55e&cache_seconds=1800" />
       </a>
     </td>
     <td align="center" width="50%">
       <b>My Projects</b><br/><sub>Built by me</sub><br/><br/>
       <a href="https://github.com/1lck/MindFlow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=1lck&repo=MindFlow&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=1lck&repo=MindFlow&theme=github_dark&hide_border=true&border_radius=12&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9&icon_color=22c55e&cache_seconds=1800" />
       </a>
     </td>
   </tr>
@@ -70,19 +70,20 @@ Profile README 使用方法：
     <td align="center" width="50%">
       <b>Contributions</b><br/><sub>PRs & fixes</sub><br/><br/>
       <a href="https://github.com/zhukunpenglinyutong/idea-claude-code-gui">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukunpenglinyutong&repo=idea-claude-code-gui&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukunpenglinyutong&repo=idea-claude-code-gui&theme=github_dark&hide_border=true&border_radius=12&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9&icon_color=22c55e&cache_seconds=1800" />
       </a>
     </td>
     <td align="center" width="50%">
       <b>Contributions</b><br/><sub>PRs & fixes</sub><br/><br/>
       <a href="https://github.com/farion1231/cc-switch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=farion1231&repo=cc-switch&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=farion1231&repo=cc-switch&theme=github_dark&hide_border=true&border_radius=12&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9&icon_color=22c55e&cache_seconds=1800" />
       </a>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 ## Stats
