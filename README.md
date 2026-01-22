@@ -79,9 +79,6 @@ Profile README 使用方法：
 
 ## Snake
 
-> 开启后会自动生成到 `dist/snake.svg`（见 `.github/workflows/snake.yml`）。
->
-> 如果图片为空：把本 README 推到 `1lck/1lck` 后，到 GitHub 的 Actions 手动运行一次 `snake`，并确认已生成 `output` 分支。
 
 <div align="center">
 
