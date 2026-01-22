@@ -49,16 +49,40 @@ Profile README 使用方法：
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/1lck/Personal-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1lck&repo=Personal-website&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/1lck/MindFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1lck&repo=MindFlow&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td align="center"><b>My Projects</b></td>
+    <td align="center"><b>My Projects</b></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/1lck/Personal-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=1lck&repo=Personal-website&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/1lck/MindFlow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=1lck&repo=MindFlow&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Contributions</b></td>
+    <td align="center"><b>Contributions</b></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/zhukunpenglinyutong/idea-claude-code-gui">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhukunpenglinyutong&repo=idea-claude-code-gui&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/farion1231/cc-switch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=farion1231&repo=cc-switch&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Stats
 
