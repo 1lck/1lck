@@ -12,11 +12,8 @@
 
 <br />
 
-<a href="https://ghfind.com/u/1lck?ref=badge#gh-dark-mode-only">
-  <img src="https://ghfind.com/api/card/mini/1lck?theme=dark&amp;lang=en#gh-dark-mode-only" alt="GitHub Roast scorecard" width="400" />
-</a>
-<a href="https://ghfind.com/u/1lck?ref=badge#gh-light-mode-only">
-  <img src="https://ghfind.com/api/card/mini/1lck?theme=light&amp;lang=en#gh-light-mode-only" alt="GitHub Roast scorecard" width="400" />
+<a href="https://ghfind.com/u/1lck?ref=badge">
+  <img src="https://ghfind.com/api/card/1lck?theme=dark" alt="GitHub Roast" />
 </a>
 
 </div>
