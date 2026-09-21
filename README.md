@@ -11,10 +11,6 @@
   贡献功能与问题修复。
 </p>
 
-<p>
-  <code>Java</code> · <code>Spring Boot</code> · <code>MySQL</code> · <code>Redis</code> · <code>Docker</code> · <code>Linux</code>
-</p>
-
 <br />
 
 <a href="https://ghfind.com/u/1lck?ref=badge#gh-dark-mode-only">
