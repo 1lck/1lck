@@ -15,12 +15,6 @@
   <code>Java</code> · <code>Spring Boot</code> · <code>MySQL</code> · <code>Redis</code> · <code>Docker</code> · <code>Linux</code>
 </p>
 
-<p>
-  <a href="https://github.com/1lck/Personal-website">Personal Website ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/1lck/MindFlow">MindFlow ↗</a>
-</p>
-
 <br />
 
 <a href="https://ghfind.com/u/1lck?ref=badge#gh-dark-mode-only">
