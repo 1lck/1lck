@@ -2,7 +2,14 @@
 
 <h3>Hi, I'm Lichenkang 👋</h3>
 
-<p>Java 后端开发者 · 构建可靠的 RESTful API</p>
+<p>主攻后端开发，关注服务设计与工程实践。</p>
+
+<p>
+  维护开源项目 <a href="https://github.com/1lck/Lithe-IDEA">Lithe IDEA</a>，参与开源社区共建。<br />
+  为 <a href="https://github.com/alibaba/nacos/pulls?q=is%3Apr+author%3A1lck+is%3Amerged">Nacos</a> 和
+  <a href="https://github.com/zhukunpenglinyutong/jetbrains-cc-gui/pulls?q=is%3Apr+author%3A1lck+is%3Amerged">JetBrains CC GUI</a>
+  贡献功能与问题修复。
+</p>
 
 <p>
   <code>Java</code> · <code>Spring Boot</code> · <code>MySQL</code> · <code>Redis</code> · <code>Docker</code> · <code>Linux</code>
