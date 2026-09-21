@@ -13,7 +13,7 @@
 <br />
 
 <a href="https://ghfind.com/u/1lck?ref=badge">
-  <img src="https://ghfind.com/api/card/1lck?theme=dark" alt="GitHub Roast" />
+  <img src="https://ghfind.com/api/card/1lck?theme=dark" alt="GitHub Roast" width="600" />
 </a>
 
 </div>
