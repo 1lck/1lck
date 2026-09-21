@@ -1,19 +1,26 @@
-# Hi, I'm Lichenkang 👋
+<div align="center">
 
-Java 后端开发者，专注于构建可靠的 RESTful API。
+<h3>Hi, I'm Lichenkang 👋</h3>
 
-**技术栈** · Java / Spring Boot / MySQL / Redis / Docker / Linux
+<p>Java 后端开发者 · 构建可靠的 RESTful API</p>
 
-## Projects
+<p>
+  <code>Java</code> · <code>Spring Boot</code> · <code>MySQL</code> · <code>Redis</code> · <code>Docker</code> · <code>Linux</code>
+</p>
 
-- [Personal Website](https://github.com/1lck/Personal-website)
-- [MindFlow](https://github.com/1lck/MindFlow)
+<p>
+  <a href="https://github.com/1lck/Personal-website">Personal Website ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/1lck/MindFlow">MindFlow ↗</a>
+</p>
 
-## GitHub Roast
+<br />
 
-<a href="https://ghfind.com/u/1lck?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/1lck?theme=dark&amp;lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/1lck?theme=light&amp;lang=zh" alt="GitHub Roast 评分卡" width="440" />
-  </picture>
+<a href="https://ghfind.com/u/1lck?ref=badge#gh-dark-mode-only">
+  <img src="https://ghfind.com/api/card/mini/1lck?theme=dark&amp;lang=zh#gh-dark-mode-only" alt="GitHub Roast 评分卡" width="400" />
 </a>
+<a href="https://ghfind.com/u/1lck?ref=badge#gh-light-mode-only">
+  <img src="https://ghfind.com/api/card/mini/1lck?theme=light&amp;lang=zh#gh-light-mode-only" alt="GitHub Roast 评分卡" width="400" />
+</a>
+
+</div>
