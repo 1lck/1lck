@@ -1,4 +1,4 @@
-# Lichenkang
+# Hi, I'm Lichenkang 👋
 
 🤖 Open-source developer exploring agent design, AI application development, and AI-powered productivity.
 
