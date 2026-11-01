@@ -1,12 +1,12 @@
 # Lichenkang
 
-Open-source developer focused on AI applications, agents, and developer tools.
+Open-source developer exploring agent design, AI application development, and AI-powered productivity.
 
 Creator and maintainer of [Lithe IDEA](https://github.com/1lck/Lithe-IDEA). Core developer of [Cherry Studio](https://github.com/CherryHQ/cherry-studio).
 
-I'm building a long-term body of work in AI, turning advances in models and agents into practical software. My work centers on AI workspaces, AI-assisted development, and the tools that connect models to real workflows.
+My focus is on agent design: how to structure tasks, coordinate tools, and build efficient workflows. I explore design approaches and practical techniques for developing agent-powered applications and improving everyday productivity.
 
-I care about the engineering behind useful AI: extensible architecture, reliable execution, and interfaces that make complex capabilities accessible. I build in the open and refine through real-world use.
+I'm interested in using AI deliberately and effectively: choosing the right approach for the task, finding where agents add value, and making better use of models, tools, and context. I share what I learn through open-source software and hands-on experimentation.
 
 ### Projects
 
